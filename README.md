@@ -1,8 +1,8 @@
-# ShopBanhang
+# Phone_store
 
 ## Overview
 
-ShopBanhang is an e-commerce web application built with Laravel 11 and PHP 8.2. It provides a complete online store experience with product management, category and brand administration, customer-facing storefront pages, and an admin dashboard.
+Phone_store is an e-commerce web application built with Laravel 11 and PHP 8.2. It provides a complete online store experience with product management, category and brand administration, customer-facing storefront pages, and an admin dashboard.
 
 ## Key Features
 
